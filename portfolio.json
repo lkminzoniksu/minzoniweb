@@ -4,19 +4,19 @@
       "title": "News Dashboard App",
       "description": "A web application that aggregates and displays the latest news from multiple sources. Users can filter by category, search for specific topics, and read summaries of trending articles. Built with HTML, CSS, JavaScript, and REST APIs, it demonstrates skills in API integration, dynamic content rendering, and responsive design.",
       "image": "./img/port_01.png",
-      "link": "https://example.com/project1"
+      "link": "https://lkminzoniksu.github.io/newsdashboard/"
     },
     {
       "title": "Weather Dashboard App",
       "description": "A web app that provides real-time weather information for any city. Users can view current conditions, forecasts, and historical data. Implemented using JavaScript, APIs, and modern UI techniques, this project highlights API consumption, asynchronous programming, and user-friendly interface design.",
       "image": "./img/port_02.png",
-      "link": "https://example.com/project2"
+      "link": "https://lkminzoniksu.github.io/weatherapp/"
     },
     {
     "title": "CSS Animated Loader",
     "description": "An animated water-fill loader built with HTML, CSS, and JavaScript. A masked logo fills with rising waves while a percentage counter increases from 0% to 100%, then transitions to a final message. A restart button replays the full animation.",
     "image": "./img/port_03.png",
-    "link": "https://example.com/project3"
+    "link": "https://lkminzoniksu.github.io/ksuloader/"
   }
 
 
